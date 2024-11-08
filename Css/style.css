@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ocr-b-std, monospace;
+    font-weight: 400;
+
+}
+
+body {
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-box {
+    width: 800px;
+    height: auto;
+    min-height: 1300px;
+    background-color: gray;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.voucher {
+    width: 500px;
+    height: auto;
+    min-height: 1000px;
+    background-color: white;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.m-title {
+    text-align: start;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.m-city-tel {
+    display: flex;
+    margin-left: 0px;
+}
+
+
+.m-name, .m-adres, .m-city-tel, .m-web, .m-center-adres, .m-mersisno, .m-hist-clock, .m-fisno {
+    text-align: start;
+    margin-left: 20px;
+    display: flex;
+    margin-top: 5px;
+}
+
+
+.m-hist-clock {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.m-product-main {
+    margin-top: 50px;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+}
+
+.m-product {
+    text-align: start;
+    margin: 5px 30px 0px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.m-total-main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.m-total {
+    width: 90%;
+    border-top: 2px dashed black;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.m-credit-card {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    border-bottom: 2px dashed black;
+    padding-bottom: 5px;
+}
+
+.m-card-number {
+    display: flex;
+}
+
+.form{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    margin-top: 40px;
+}
+
+
+.form-box{
+    display: flex;
+    justify-content: center;
+}
+
+#piece {
+    margin-right: 30px;
+    width: 200px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: 0px;
+}
+
+
+
+
+
+.form input[type="submit"]{
+    width: 150px;
+    height: 50px;
+    border-radius:7px ;
+    -webkit-border-radius:7px ;
+    -moz-border-radius:7px ;
+    -ms-border-radius:7px ;
+    -o-border-radius:7px ;
+    border: none;
+    padding: 5px 7px;
+    font-size: 24px;
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+}
+
+.form input[type="submit"]:hover{
+    transition: all 1.2s ease;
+    background-color: orangered;
+    -webkit-transition: all 1.2s ease;
+    -moz-transition: all 1.2s ease;
+    -ms-transition: all 1.2s ease;
+    -o-transition: all 1.2s ease;
+}
+
+.m-br-kod{
+width: 100%;
+height: 200px;
+margin-top: 40px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.m-br-box{
+    width: 300px;
+    height: 130px;
+}
+
+.m-br-number{
+    width: 300px;
+    height: 30px;
+}

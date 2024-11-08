@@ -1,0 +1,122 @@
+[
+    {
+        "name": "TATVAN SATIS MAGAZASI",
+        "address": "CUMHURIYET CAD. SARAY MAH. NO:1",
+        "city": "TATVAN/BITLIS",
+        "phone_number": "0 (850) 310 29 47"
+    },
+    {
+        "name": "ANKARA KIZILAY MIGROS",
+        "address": "ATATÜRK BULVARI NO: 25, KIZILAY",
+        "city": "ANKARA",
+        "phone_number": "0 (312) 425 67 89"
+    },
+    {
+        "name": "ISTANBUL CADDEBOSTAN MIGROS",
+        "address": "BAĞDAT CAD. NO: 350, CADDEBOSTAN",
+        "city": "ISTANBUL",
+        "phone_number": "0 (216) 123 45 67"
+    },
+    {
+        "name": "IZMIR KARŞIYAKA MIGROS",
+        "address": "CUMHURIYET BULVARI NO: 12, KARŞIYAKA",
+        "city": "IZMIR",
+        "phone_number": "0 (232) 456 78 90"
+    },
+    {
+        "name": "ANTALYA LARA MIGROS",
+        "address": "LARA CAD. NO: 58",
+        "city": "ANTALYA",
+        "phone_number": "0 (242) 345 67 89"
+    },
+    {
+        "name": "BURSA NILUFER MIGROS",
+        "address": "NILUFER CAD. NO: 27",
+        "city": "BURSA",
+        "phone_number": "0 (224) 876 54 32"
+    },
+    {
+        "name": "ADANA SEYHAN MIGROS",
+        "address": "SEYHAN CAD. NO: 40",
+        "city": "ADANA",
+        "phone_number": "0 (322) 654 32 10"
+    },
+    {
+        "name": "ESKISEHIR TEPEBASI MIGROS",
+        "address": "ATATÜRK BULVARI NO: 14, TEPEBAŞI",
+        "city": "ESKISEHIR",
+        "phone_number": "0 (222) 765 43 21"
+    },
+    {
+        "name": "MERSIN MEZITLI MIGROS",
+        "address": "MEZITLI CAD. NO: 5",
+        "city": "MERSIN",
+        "phone_number": "0 (324) 543 21 09"
+    },
+    {
+        "name": "KONYA SELCUKLU MIGROS",
+        "address": "ALAADDIN BULVARI NO: 8",
+        "city": "KONYA",
+        "phone_number": "0 (332) 123 45 78"
+    },
+    {
+        "name": "KAYSERI MELIKGAZI MIGROS",
+        "address": "MELIKGAZI MAH. NO: 29",
+        "city": "KAYSERI",
+        "phone_number": "0 (352) 678 12 34"
+    },
+    {
+        "name": "GAZIANTEP SEHITKAMIL MIGROS",
+        "address": "ATATÜRK BULVARI NO: 18, ŞEHITKAMIL",
+        "city": "GAZIANTEP",
+        "phone_number": "0 (342) 456 78 90"
+    },
+    {
+        "name": "SAMSUN ILKADIM MIGROS",
+        "address": "CUMHURIYET CAD. NO: 11",
+        "city": "SAMSUN",
+        "phone_number": "0 (362) 234 56 78"
+    },
+    {
+        "name": "TRABZON ORTAHISAR MIGROS",
+        "address": "KARADENIZ CAD. NO: 21",
+        "city": "TRABZON",
+        "phone_number": "0 (462) 789 01 23"
+    },
+    {
+        "name": "BALIKESIR BANDIRMA MIGROS",
+        "address": "BANDIRMA CAD. NO: 45",
+        "city": "BALIKESIR",
+        "phone_number": "0 (266) 654 32 10"
+    },
+    {
+        "name": "DENIZLI MERKEZ MIGROS",
+        "address": "MERKEZ MAH. ÇINAR CAD. NO: 12",
+        "city": "DENIZLI",
+        "phone_number": "0 (258) 456 78 90"
+    },
+    {
+        "name": "AYDIN EFELER MIGROS",
+        "address": "ATATÜRK CAD. NO: 15, EFELER",
+        "city": "AYDIN",
+        "phone_number": "0 (256) 212 45 67"
+    },
+    {
+        "name": "SAKARYA ADAPAZARI MIGROS",
+        "address": "ADAPAZARI CAD. NO: 23",
+        "city": "SAKARYA",
+        "phone_number": "0 (264) 678 90 12"
+    },
+    {
+        "name": "KOCAELI IZMIT MIGROS",
+        "address": "IZMIT CAD. NO: 7",
+        "city": "KOCAELI",
+        "phone_number": "0 (262) 543 21 67"
+    },
+    {
+        "name": "TEKIRDAG ÇORLU MIGROS",
+        "address": "ÇORLU CAD. NO: 19",
+        "city": "TEKIRDAG",
+        "phone_number": "0 (282) 876 54 32"
+    }
+]
